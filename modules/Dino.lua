@@ -1,4 +1,5 @@
 -- Todo: test & replace some formatting 
+-- COPYRIGHTED!!!!! DONT STEAL
 -- . -> :
 
 -- public
