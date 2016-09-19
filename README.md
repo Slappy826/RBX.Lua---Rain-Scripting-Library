@@ -1,5 +1,5 @@
 # RBX.Lua---Rain-Scripting-Library
-A general-purpose RBX.Lua scritping library, consisting of functions by many Rain members.
+A general-purpose RBX.Lua scripting library, consisting of functions by many Rain members.
 
 Each Rain member contributes in their own module. Each contributing module can be found in the modules directory. If you're a Rain member and you'd like to contribute, speak to me (Autumn) and I'll set you up.
 
