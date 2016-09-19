@@ -1,6 +1,5 @@
 -- Todo: test & replace some formatting 
--- COPYRIGHTED!!!!! DONT STEAL
--- . -> :
+-- COPYRIGHTED - DONT STEAL
 
 -- public
 local module = {}
