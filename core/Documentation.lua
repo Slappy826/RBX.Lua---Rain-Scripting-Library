@@ -1,5 +1,5 @@
 -- The documentation file
--- This decides what is returned when the lib is called as a function
+-- This decides what is returned when the user requests the documentation is printed
 -- In the final model, this will be parented to MainModule
 
 return setmetatable({}, {
