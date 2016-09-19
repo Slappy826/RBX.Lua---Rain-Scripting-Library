@@ -1,6 +1,6 @@
 -- The main module, responsible for loading all the other modules
 -- The other modules will be parented to this one in the final upload
--- Do not modify this file
+-- This is a placeholder, using it will be much cooler in the future thanks to metatable magic
 
 local lib = {}
 
