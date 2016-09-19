@@ -1,13 +1,16 @@
--- Todo: Work on c00l stuff!!1
--- Some interesting stuff going down here..
+-- Todo: test & replace some formatting 
+-- . -> :
 
-
+-- public
 local module = {}
 
--- {name, level}
-local admins = {}
+-- private
+local internal = {}
 
-local function addAdmin(name, lvl)
+-- {name, level}
+local internal.admins = {}
+
+function internal:addAdmin(name, lvl)
   table.insert(admins, {name, lvl})
 end
 
