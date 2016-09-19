@@ -1,1 +1,3 @@
+local magic = {}
 
+return magic
