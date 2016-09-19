@@ -1,6 +1,6 @@
 -- I'll just throw in a few funcs from a fun old library I was working on
 -- It never went anywhere, so it's more productivity than laziness :P
--- I'll add thnigs here whenever I get new ideas
+-- I'll add things here whenever I get new ideas
 
 return {
 	Utilities = setmetatable({
