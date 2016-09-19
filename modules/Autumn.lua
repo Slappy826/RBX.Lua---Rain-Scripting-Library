@@ -4,7 +4,6 @@
 
 return {
 	Utilities = setmetatable({
-	
 		checkFriendship = function(self, type, name1, name2)
 			if not type or not name1 or not name2 then error("missing argument(s)", 2) end
 			local func = name1["is" .. type .. "With"]
@@ -30,6 +29,5 @@ return {
 			end
 			return false
 		end;
-		
 	}, {__index = function(t, k) for i,v in pairs(t) do if i:lower() == k:lower() then return v end end end})
 }
