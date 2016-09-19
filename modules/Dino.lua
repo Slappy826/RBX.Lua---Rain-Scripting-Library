@@ -2,7 +2,7 @@
 -- COPYRIGHTED - DONT STEAL
 
 -- public
-local module = {}
+--local module = {}
 
 -- private
 local internal = {}
@@ -14,5 +14,8 @@ function internal:addAdmin(name, lvl)
   table.insert(admins, {name, lvl})
 end
 
+function init() 
+  -- start
+end
 
-return module
+return init
