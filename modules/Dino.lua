@@ -1,3 +1,7 @@
+-- COPYRIGHTEDDDDDDDDDD
+
+
+
 -- Todo: test & replace some formatting 
 
 -- public
@@ -20,7 +24,7 @@ function internal:cout(txt)
 
 end
 
-function internalcin(var, txt)
+function internal:cin(var, txt)
   
 end
 
